@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Login_Screen_for_Homework
  Çalıştığını gösteren bir ekran görüntüsü
  <img width="1919" height="1079" alt="acilmaekrani" src="https://github.com/user-attachments/assets/67720b8b-0ef6-4007-886b-184c28f3231f" />
